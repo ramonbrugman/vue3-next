@@ -1,0 +1,1 @@
+import{u as a}from"./vue-router.ad022958.js";import{d as r,W as e,e as s,a2 as o}from"./@vue.1d6716c2.js";var d=r({name:"Dashboard",setup:()=>({router:a()})});const t=o()(((a,r,o,d,t,u)=>(e(),s("div",null,"首页"))));d.render=t,d.__scopeId="data-v-5b0664f3";export default d;
